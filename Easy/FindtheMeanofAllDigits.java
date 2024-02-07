@@ -1,5 +1,6 @@
 // ##### CHALLENGE #####
 //https://edabit.com/challenge/mvHZK6Dy3ZF8EFoG3
+
 public class Challenge {
   public static int mean(int a) {
     int sum = 0;
